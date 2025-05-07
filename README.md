@@ -1,9 +1,7 @@
-<h1>Hi, I'm Jasper Staats 👋</h1>
-<p">
-  <b>Frontend Engineer</b> | <b>Creative Technologist</b> | <b>UI Systems Architect</b>
-</p>
 
----
+<h2>
+  <b>Frontend Engineer</b> | <b>Creative Technologist</b> | <b>UI Systems Architect</b>
+</h2>
 
 ### 🚀 About Me
 
