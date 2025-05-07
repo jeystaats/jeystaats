@@ -1,23 +1,31 @@
-<h1>Hey, I'm <a href="https://www.linkedin.com/in/jasperstaats/" target="_blank">Jasper Staats</a> 👋</h1>
+<h1>Hi, I'm Jasper Staats 👋</h1>
 <p">
-  <b>Lead Engineer</b> with a creative spark and technical precision.<br>
-  I help teams build exceptional digital experiences with <b>NextJS</b>, <b>TypeScript</b>, and modern web technologies.
+  <b>Frontend Engineer</b> | <b>Creative Technologist</b> | <b>UI Systems Architect</b>
 </p>
-
-## 💡 What I do
-
-- **UI Systems & Design Systems**: Architecting scalable, beautiful component libraries.
-- **Creative Coding**: Data viz, generative art, and interactive experiences.
-- **AI Integration**: Building with GPT, Midjourney, Claude, and creative AI tools.
-- **Technical Leadership**: Enabling teams, mentoring, and driving frontend excellence.
 
 ---
 
-## 🧑‍🚀 Values
+### 🚀 About Me
 
-- **Modern Development**: Always exploring new tools and AI to make work more fun and efficient.
-- **Collaboration**: I love working with designers, PMs, and engineers to ship great products.
-- **Quality & Creativity**: Code can be art. I aim for both beauty and function.
+- 🏄‍♂️ Based in Barcelona, working globally
+- 🛠️ I build **exceptional digital experiences** for agencies, startups, and SaaS companies
+- 🎨 I love creative coding, design systems, and AI-powered products
+- 🧑‍💻 Currently focused on **React**, **Next.js**, **TypeScript**, and **data visualization**
+---
+
+### ✨ What I Love Building
+
+- **Design Systems**: Scalable, beautiful, and accessible component libraries
+- **Creative Coding**: Generative art, data viz, and interactive web experiences
+- **AI Integrations**: GPT, Midjourney, Claude, and more
+- **Technical Leadership**: Mentoring, enabling teams, and driving frontend excellence
+
+---
+
+### 📫 Let's Connect
+
+- [🌐 Website](https://www.staats.dev)
+- [💼 LinkedIn](https://www.linkedin.com/in/jasperstaats/)
 
 ---
 
@@ -25,4 +33,10 @@
   <a href="https://www.staats.dev" target="_blank" style="background: #FFDC41; color: black; padding: 12px 24px; border-radius: 8px; font-weight: bold; text-decoration: none;">
     🚀 Throw some code at me!
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeystaats&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
 </p>
