@@ -1,35 +1,34 @@
-
-<h2>
-  <b>Frontend Engineer</b> | <b>Creative Technologist</b> | <b>UI Systems Architect</b>
-</h2>
-
-### 🚀 About Me
-
-- 🏄‍♂️ Based in Barcelona, working globally
-- 🛠️ I build **exceptional digital experiences** for agencies, startups, and SaaS companies
-- 🎨 I love creative coding, design systems, and AI-powered products
-- 🧑‍💻 Currently focused on **React**, **Next.js**, **TypeScript**, and **data visualization**
----
-
-### ✨ What I Love Building
-
-- **Design Systems**: Scalable, beautiful, and accessible component libraries
-- **Creative Coding**: Generative art, data viz, and interactive web experiences
-- **AI Integrations**: GPT, Midjourney, Claude, and more
-- **Technical Leadership**: Mentoring, enabling teams, and driving frontend excellence
-
----
-
-### 📫 Let's Connect
-
-- [🌐 Website](https://www.staats.dev)
-- [💼 LinkedIn](https://www.linkedin.com/in/jasperstaats/)
-
----
-
 <p align="center">
-  <a href="https://www.staats.dev" target="_blank" style="background: #FFDC41; color: black; padding: 12px 24px; border-radius: 8px; font-weight: bold; text-decoration: none;">
-    🚀 Throw some code at me!
-  </a>
+  <img src="./assets/header.svg" alt="Jasper Staats — Head of Tech & Lead Engineer at Like A Human" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://www.staats.dev"><strong>Website</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jasperstaats/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <strong>Barcelona, working globally</strong>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="Focus & stack: React, Next.js, TypeScript, Convex, Claude Code / Agentic AI, Design Systems" width="100%" />
+</p>
+
+<br />
+
+### What Like A Human does
+
+Like A Human runs hands-on AI workshops — teaching engineering teams and brands to actually build with AI: Claude Code, agentic workflows, and AI-image campaigns. Co-led by Stefan and Jasper.
+
+### What I'm building
+
+As Head of Tech and Lead Engineer, I build the platform behind the workshops and the agentic tooling we teach with — production React, Next.js, and TypeScript on a Convex backend, wrapped in a real design system. The throughline: making AI a tool teams can actually wield, not a demo.
+
+<br />
+
+<p align="center">
+  <strong>Want to teach your team to build with AI?</strong><br />
+  Let's talk — <a href="https://www.staats.dev">staats.dev</a> · <a href="https://www.linkedin.com/in/jasperstaats/">LinkedIn</a>
+</p>
